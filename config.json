@@ -2,7 +2,7 @@
   "title": "My Wiki",
   "home": "README.md",
   "icon": "icon.png",
-  "url": ["README.md","install.md"],
-  "tit": ["Home","Install Guide"],
+  "url": ["README.md","install.md","usage.md"],
+  "tit": ["Home","Install Guide","Usage Guide"],
   "foot": "<center>Powered by <a href='https://github.com/langong-dev/oh-wiki'> Oh-Wiki </a></center>"
 }
