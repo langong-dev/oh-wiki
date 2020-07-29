@@ -20,11 +20,9 @@ KaTeX: $\sum$
 
 Config file is `config.json`
 
-|Key Name|Value|Meaning|
-|:---:|:---:|:---:|
-|title|string(file name)|Your wiki's name|
-|home|string(file name)|Home file, language in MD|
-|icon|string(file name)|Your wiki's icon|
-|url|array(strings in it)|Your article's url link(file name)|
-|tit|array(strings in it)|Your article's title|
-|foot|string(use HTML)|Something in foot of pages|
+- `title` string(file name)   Your wiki's name
+- `home`  string(file name)   Home file, language in MD
+- `icon`  string(file name)   Your wiki's icon
+- `url`   array(strings in it)Your article's url link(file name)
+- `tit`   array(strings in it)Your article's title
+- `foot`  string(use HTML)    Something in foot of pages
