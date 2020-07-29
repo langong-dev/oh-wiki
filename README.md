@@ -24,15 +24,9 @@ int main ()
 }
 ```
 
-And Math is support by [KaTeX](katex.org) , likes this:
+And Math is support by [KaTeX](katex.org)
 
-- Inline
+## Install Guide/Usage Guide
 
-I'm $inline$ $KaTeX$
-
-- Normal
-
-$$\sum_{i=1}^{n} a_i$$
-
-
+Our Website : [langong-dev.github.io/oh-wiki]
 
